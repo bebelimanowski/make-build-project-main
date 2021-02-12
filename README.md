@@ -1,1 +1,1 @@
-# MackBuild-project
+# make build-project
